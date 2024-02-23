@@ -1,4 +1,4 @@
-# IAI-Insurance_fraud_Identification #
+# EDA_on_Insurance_fraud_Identification #
 This dataset seems to contain information about insurance claims related to automobile accidents. Here's a breakdown of the columns:
 
     Month: Month of the accident.
